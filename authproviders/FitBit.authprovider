@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AuthProvider xmlns="http://soap.sforce.com/2006/04/metadata">
+    <authorizeUrl>https://www.fitbit.com/oauth2/authorize</authorizeUrl>
+    <consumerKey>878c2c7e989d33e6386e429489d4ca88</consumerKey>
+    <consumerSecret>FcpDpTAkQbCRRA1Zl4YZbJKcPskyK8T5xNsEWJNGWTJwQRj3Ygtq1w==</consumerSecret>
+    <friendlyName>FitBit</friendlyName>
+    <idTokenIssuer>229MJR</idTokenIssuer>
+    <includeOrgIdInIdentifier>false</includeOrgIdInIdentifier>
+    <providerType>OpenIdConnect</providerType>
+    <sendAccessTokenInHeader>true</sendAccessTokenInHeader>
+    <sendClientCredentialsInHeader>false</sendClientCredentialsInHeader>
+    <tokenUrl>https://api.fitbit.com/oauth2/token</tokenUrl>
+</AuthProvider>
