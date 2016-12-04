@@ -80,6 +80,7 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>Book__c-en_US</members>
         <members>Customer__c-en_US</members>
         <members>EmployeeDB__c-en_US</members>
         <members>FAQ__kav-en_US</members>
